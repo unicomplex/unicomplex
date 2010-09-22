@@ -1,0 +1,2 @@
+SOURCE=git://git.fluxbox.org/fluxbox.git
+TARGET=git@github.com:paultag/fluxbox.git
