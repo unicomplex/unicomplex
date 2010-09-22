@@ -1,0 +1,2 @@
+SOURCE=git://pault.ag/unicomplex.git
+TARGET=git@github.com:unicomplex/unicomplex.git
