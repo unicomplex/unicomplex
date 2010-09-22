@@ -1,4 +1,5 @@
 #!/bin/bash
+# GPLv3, Paul Tagliamonte
 
 TARGET_DIR="./targets/"
 
